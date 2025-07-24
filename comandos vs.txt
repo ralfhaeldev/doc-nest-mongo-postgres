@@ -1,0 +1,5 @@
+###########EXTENSION PASTE JSON AS CODE##########################
+1.Primero debes tener copiado el json al  queres crear la interface
+2.control+shif+p => buscar extenciones
+3.buscar=> paste json as code
+4.darle nombre de la interface

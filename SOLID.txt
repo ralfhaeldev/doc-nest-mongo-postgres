@@ -1,0 +1,6 @@
+El Principio de Sustitución de Liskov (LSP)
+ establece que las subclases deben ser sustituibles por sus superclases sin alterar el
+ comportamiento esperado del programa. En otras palabras, si tienes una función que espera
+ un objeto de una clase base, debes poder pasarle un objeto de cualquiera de sus subclases
+ y que la función siga funcionando correctamente. 
+ En resumen: Si S es un subtipo de T, entonces
