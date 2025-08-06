@@ -68,13 +68,13 @@ Para cambiar íconos de Angular por íconos de Nest:
 
 ---
 
-# Wallpapers que uso
+## Wallpapers que uso
 
 [Wallpapers Developer](https://drive.google.com/drive/folders/1ItU8rbSGJjnh2USOBGwaCo9nYKifPJ6m?usp=sharing)
 
 ---
 
-# Crear proyecto con Vite
+## Crear proyecto con Vite
 
 ```bash
 yarn create vite
@@ -86,52 +86,66 @@ yarn install
 
 ---
 
-# Conectar MongoDB con Nest.js
+## Conectar MongoDB con Nest.js
 
 [Documentación oficial](https://docs.nestjs.com/techniques/mongodb)
 
 ---
 
-# Validar variables de entorno
+## Validar variables de entorno
 
 [Paquete Joi - npm](https://www.npmjs.com/package/joi)
 
 ---
 
-# Desplegar código en la nube
+## Desplegar código en la nube
 
 [Railway](https://railway.com/)
 
 ---
 
-# Subir archivo
+## Subir archivo
 
 [File Upload en NestJS](https://docs.nestjs.com/techniques/file-upload)
 
 ---
 
-# TypeORM
+## TypeORM
 
 [Documentación TypeORM con Postgres](https://docs.nestjs.com/techniques/database)
 
 ---
 
-# Decoradores personalizados
+## Decoradores personalizados
 
 [Auth() y Guard()](https://docs.nestjs.com/custom-decorators#decorator-composition)
 
-# Codigos de respuestas
+## Codigos de respuestas
 
 [StatusCode](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
 
-# Docuemtnación Mongo
+## Docuemtnación Mongo
 
 [MongoDB](https://docs.nestjs.com/techniques/mongodb)
 
-# Conectar base de datos
+## Conectar base de datos
 
 [Postgres](https://docs.nestjs.com/techniques/database)
 
-# Implementar sockets
+## Implementar sockets
 
 [Sockets](https://docs.nestjs.com/techniques/database)
+
+## Instalaciones para el proyecto
+
+```bash
+Yarn add @nestjs/typeorm typeorm
+yarn add npm install pg
+yarn add  class-validator class-transformer
+yarn add @nestjs/mapped-types
+yarn add bcrypt
+yarn add -D @types/bcrypt
+yarn add @nestjs/passport passport passport-jwt @nestjs/jwt
+yarn add -D @types/passport-jwt
+
+```
