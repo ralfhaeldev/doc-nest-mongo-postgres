@@ -3,3 +3,6 @@
 2.control+shif+p => buscar extenciones
 3.buscar=> paste json as code
 4.darle nombre de la interface
+
+cerrar todas las funciones 
+ctrl+K+0 y abrir cada funcion con click en la rueda del mouse

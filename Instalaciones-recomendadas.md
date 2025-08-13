@@ -136,7 +136,18 @@ yarn install
 
 [Sockets](https://docs.nestjs.com/techniques/database)
 
+## Implementación de swagger
+
+[Swagger](https://docs.nestjs.com/openapi/introduction)
+
+## Construir imagen docker
+
+```bash
+docker build -t core-nest:v1 .
+docker images
+docker run -p 3000:3000 core-nest:v1
 ## Instalaciones para el proyecto
+```
 
 ```bash
 Yarn add @nestjs/typeorm typeorm
